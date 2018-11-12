@@ -1,1 +1,1 @@
-# PoliticaDePrivacidad
+# politicaprivacidad
